@@ -1,6 +1,8 @@
-👋 Hello there, I'm isocat. Welcome to my profile! 🐱
+# 🐱 isocat 🔥
 
-Below is a brief description of myself, which will hopefully allow you to familiarise yourself with me.
+👋 Hello there. Welcome to my profile! 🐈
+
+Below is a brief description of me and my interests, which will hopefully allow you to familiarise yourself with me.
 
 Although I've created various Windows-based applications in the past, my programming experience is fairly limited and is something I've recently set out to improve.
 As my knowledge increases, I plan on uploading some of the projects I create onto GitHub as a way of documenting my progress whilst simultaneously sharing my code for all to use.
@@ -16,4 +18,4 @@ I suppose another fun fact about me is that I can identify the flags of all 190+
 Well, thanks for stopping by! Whilst there isn't much on my profile yet I'm sure it'll grow over time.
 
 Enjoy your Day/Evening/Night,
-~ isocat
+~ isocat 🐱‍👤
